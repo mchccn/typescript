@@ -12,3 +12,4 @@ Though I'm far from being a TypeScript expert, I believe these notes are useful 
 
 ## Canonical Issues
 
+- [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
