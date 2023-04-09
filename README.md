@@ -24,3 +24,7 @@ All notes are written using the latest version of TypeScript.
 
 -   [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
 -   [#44312 Keyword to permit inferring a union for a type parameter](https://github.com/microsoft/TypeScript/issues/44312)
+
+## Quick links
+
+-   [Distributive conditional types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#distributive-conditional-types)
