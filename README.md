@@ -16,6 +16,7 @@ All notes are written using the latest version of TypeScript.
 
 -   [Conditional type abuse](conditional-type-abuse.md)
 -   [`boolean` is a union](boolean-is-a-union.md)
+-   [`keyof` with unions](keyof-with-unions.md)
 
 ## Canonical Issues
 
