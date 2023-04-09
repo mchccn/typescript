@@ -1,6 +1,6 @@
 # TypeScript
 
-These are notes on TypeScript I have garnered from my time spent answering Stack Overflow questions, including behavior, canonical issues, workarounds, and anti-patterns.
+These are notes on TypeScript I have curated from my time spent answering Stack Overflow questions, including behavior, canonical issues, workarounds, and anti-patterns.
 I often find myself referencing the same documentation and GitHub issues from time to time, so I thought it would be nice if I had them all in one place.
 I'm not exactly a TypeScript expert, but these notes should be useful for developers of all skill levels.
 
