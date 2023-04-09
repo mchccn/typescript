@@ -1,5 +1,3 @@
-
-
 ## NoInfer
 
 ```ts
