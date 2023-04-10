@@ -9,11 +9,17 @@ All notes are written using the latest version of TypeScript.
 
 ## Snippets
 
+This section contains useful TypeScript snippets, mostly utilities. 
+Every snippet will include an explanation of why you would use it and how it works.
+
 -   [KeysOfUnion](keys-of-union.md)
 -   [UnionToIntersection](union-to-intersection.md)
 -   [NoInfer](no-infer.md)
 
 ## Articles
+
+Here are a few common misconceptions, practices, and ideas that you should know.
+Most of these are inspired directly by Stack Overflow questions (and answers).
 
 -   [Conditional type abuse](conditional-type-abuse.md)
 -   [`boolean` is a union](boolean-is-a-union.md)
@@ -21,9 +27,15 @@ All notes are written using the latest version of TypeScript.
 
 ## Canonical Issues
 
+This is a list of GitHub issues I often reference, serving as a sort of landmark to build an answer upon.
+I check for newer issues to add every so often.
+
 -   [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
 -   [#44312 Keyword to permit inferring a union for a type parameter](https://github.com/microsoft/TypeScript/issues/44312)
 
 ## Quick links
+
+This is just a list of webpages I link to extremely often.
+Mostly just documentation, but sometimes there's a Stack Overflow Q&A or GitHub repository.
 
 -   [Distributive conditional types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#distributive-conditional-types)
