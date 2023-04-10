@@ -30,6 +30,7 @@ Most of these are inspired directly by Stack Overflow questions (and answers).
 This is a list of GitHub issues and pull requests I often reference, serving as a sort of landmark to build an answer upon.
 I check for newer issues or pull requests to add every so often.
 
+-   [#13298 Type manipulations: union to tuple](https://github.com/microsoft/TypeScript/issues/13298)
 -   [#25784 Bring back typedef property expansion](https://github.com/microsoft/TypeScript/issues/25784)
 -   [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
 -   [#44312 Keyword to permit inferring a union for a type parameter](https://github.com/microsoft/TypeScript/issues/44312)
