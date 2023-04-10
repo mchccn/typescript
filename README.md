@@ -7,7 +7,7 @@ All notes are written using the latest version of TypeScript.
 
 <a href="https://stackoverflow.com/users/18244921"><img src="https://stackoverflow.com/users/flair/18244921.png" width="208" height="58" alt="profile for vr. at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for vr. at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## Snippets
+## Code Snippets
 
 This section contains useful TypeScript snippets, mostly utilities. 
 Every snippet will include an explanation of why you would use it and how it works.
@@ -16,7 +16,7 @@ Every snippet will include an explanation of why you would use it and how it wor
 -   [UnionToIntersection](union-to-intersection.md)
 -   [NoInfer](no-infer.md)
 
-## Articles
+## Notes & Articles
 
 Here are a few common misconceptions, practices, and ideas that you should know.
 Most of these are inspired directly by Stack Overflow questions (and answers).
@@ -25,10 +25,10 @@ Most of these are inspired directly by Stack Overflow questions (and answers).
 -   [`boolean` is a union](boolean-is-a-union.md)
 -   [`keyof` with unions](keyof-with-unions.md)
 
-## Canonical Issues
+## Issues & Pull Requests
 
-This is a list of GitHub issues I often reference, serving as a sort of landmark to build an answer upon.
-I check for newer issues to add every so often.
+This is a list of GitHub issues and pull requests I often reference, serving as a sort of landmark to build an answer upon.
+I check for newer issues or pull requests to add every so often.
 
 -   [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
 -   [#44312 Keyword to permit inferring a union for a type parameter](https://github.com/microsoft/TypeScript/issues/44312)
