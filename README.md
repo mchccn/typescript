@@ -24,6 +24,7 @@ Most of these are inspired directly by Stack Overflow questions (and answers).
 -   [Conditional type abuse](conditional-type-abuse.md)
 -   [`boolean` is a union](boolean-is-a-union.md)
 -   [`keyof` with unions](keyof-with-unions.md)
+-   [Generics with default values](generics-with-default-values.md)
 
 ## Issues & Pull Requests
 
