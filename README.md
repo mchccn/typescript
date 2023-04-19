@@ -42,3 +42,4 @@ This is just a list of webpages I link to extremely often.
 Mostly just documentation, but sometimes there's a Stack Overflow Q&A or GitHub repository.
 
 -   [Distributive conditional types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#distributive-conditional-types)
+-   [Type assertions](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
