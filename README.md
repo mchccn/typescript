@@ -25,6 +25,7 @@ Most of these are inspired directly by Stack Overflow questions (and answers).
 -   [`boolean` is a union](boolean-is-a-union.md)
 -   [`keyof` with unions](keyof-with-unions.md)
 -   [Generics with default values](generics-with-default-values.md)
+-   [`as` is not a cast](as-is-not-a-cast.md)
 -   [Mapped types:](mapped-types/README.md)
     - [Mapping over unions](mapped-types/mapping-over-unions.md)
 
