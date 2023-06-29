@@ -37,6 +37,7 @@ I check for newer issues or pull requests to add every so often.
 -   [#13298 Type manipulations: union to tuple](https://github.com/microsoft/TypeScript/issues/13298)
 -   [#25784 Bring back typedef property expansion](https://github.com/microsoft/TypeScript/issues/25784)
 -   [#33912 Relate control flow to conditional types in return types](https://github.com/microsoft/TypeScript/issues/33912)
+-   [#41164 Circular reference error when defining Record type](https://github.com/microsoft/TypeScript/issues/41164)
 -   [#44312 Keyword to permit inferring a union for a type parameter](https://github.com/microsoft/TypeScript/issues/44312)
 -   [#47486 Empty object type is not working](https://github.com/microsoft/TypeScript/issues/47486)
 
