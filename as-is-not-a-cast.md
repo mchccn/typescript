@@ -16,7 +16,7 @@ Given the following, similar code;
 
 ```ts
 const str = "1.23";
-const num = d as number;
+const num = str as number;
 
 console.log(num);
 ```
