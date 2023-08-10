@@ -45,7 +45,7 @@ See for yourself:
 
 ```ts
 const str = "1.23";
-const num = <number> d;
+const num = <number> str;
 ```
 
 Chilling!
